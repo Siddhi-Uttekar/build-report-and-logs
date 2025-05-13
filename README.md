@@ -10,3 +10,7 @@ git remote add origin https://github.com/USERNAME/14.git
 
 git push -u origin main
 
+
+###
+if want to download locally files
+bash scripts/bash.sh
